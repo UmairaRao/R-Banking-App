@@ -1,0 +1,1103 @@
+.mobile {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.mobile .mobile-banking-wrapper {
+  background-color: #ffffff;
+  width: 375px;
+  height: 900px;
+}
+
+.mobile .mobile-banking {
+  position: relative;
+  height: 899px;
+  top: -1px;
+}
+
+.mobile .overlap {
+  position: relative;
+  width: 376px;
+  height: 899px;
+}
+
+.mobile .BG {
+  position: absolute;
+  width: 375px;
+  height: 899px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .rectangle {
+  height: 898px;
+  background-color: #ffffff;
+}
+
+.mobile .MAIN-OBJECTS {
+  position: absolute;
+  width: 327px;
+  height: 193px;
+  top: 635px;
+  left: 24px;
+}
+
+.mobile .group {
+  width: 329px;
+  height: 193px;
+}
+
+.mobile .overlap-group {
+  position: relative;
+  width: 327px;
+  height: 193px;
+}
+
+.mobile .div {
+  position: absolute;
+  width: 327px;
+  height: 193px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .path {
+  position: absolute;
+  width: 181px;
+  height: 70px;
+  top: 0;
+  left: 75px;
+}
+
+.mobile .img {
+  position: absolute;
+  width: 304px;
+  height: 142px;
+  top: 50px;
+  left: 19px;
+}
+
+.mobile .group-2 {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 100px;
+  left: 260px;
+}
+
+.mobile .group-3 {
+  position: absolute;
+  width: 41px;
+  height: 43px;
+  top: 149px;
+  left: 0;
+}
+
+.mobile .path-2 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 45px;
+  left: 70px;
+}
+
+.mobile .path-3 {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 39px;
+  left: 64px;
+}
+
+.mobile .overlap-group-wrapper {
+  position: absolute;
+  width: 91px;
+  height: 64px;
+  top: 128px;
+  left: 29px;
+}
+
+.mobile .overlap-group-2 {
+  position: relative;
+  width: 90px;
+  height: 63px;
+  left: 1px;
+}
+
+.mobile .path-4 {
+  position: absolute;
+  width: 77px;
+  height: 30px;
+  top: 0;
+  left: 3px;
+}
+
+.mobile .path-5 {
+  position: absolute;
+  width: 84px;
+  height: 54px;
+  top: 9px;
+  left: 0;
+}
+
+.mobile .shape-wrapper {
+  position: absolute;
+  width: 79px;
+  height: 47px;
+  top: 13px;
+  left: 3px;
+  opacity: 0.39;
+}
+
+.mobile .shape {
+  position: absolute;
+  width: 78px;
+  height: 47px;
+  top: 0;
+  left: 1px;
+}
+
+.mobile .path-6 {
+  position: absolute;
+  width: 84px;
+  height: 54px;
+  top: 10px;
+  left: 0;
+}
+
+.mobile .path-7 {
+  position: absolute;
+  width: 84px;
+  height: 33px;
+  top: 30px;
+  left: 0;
+}
+
+.mobile .path-8 {
+  position: absolute;
+  width: 31px;
+  height: 20px;
+  top: 28px;
+  left: 59px;
+}
+
+.mobile .img-wrapper {
+  position: absolute;
+  width: 29px;
+  height: 18px;
+  top: 29px;
+  left: 61px;
+  opacity: 0.4;
+}
+
+.mobile .shape-2 {
+  position: absolute;
+  width: 28px;
+  height: 16px;
+  top: 1px;
+  left: 0;
+}
+
+.mobile .oval {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 33px;
+  left: 64px;
+}
+
+.mobile .path-9 {
+  position: absolute;
+  width: 31px;
+  height: 19px;
+  top: 28px;
+  left: 59px;
+}
+
+.mobile .path-10 {
+  position: absolute;
+  width: 30px;
+  height: 7px;
+  top: 41px;
+  left: 60px;
+}
+
+.mobile .path-11 {
+  position: absolute;
+  width: 47px;
+  height: 20px;
+  top: 14px;
+  left: 14px;
+}
+
+.mobile .path-12 {
+  position: absolute;
+  width: 101px;
+  height: 180px;
+  top: 11px;
+  left: 119px;
+}
+
+.mobile .path-13 {
+  position: absolute;
+  width: 87px;
+  height: 155px;
+  top: 27px;
+  left: 126px;
+}
+
+.mobile .path-14 {
+  position: absolute;
+  width: 56px;
+  height: 16px;
+  top: 157px;
+  left: 141px;
+}
+
+.mobile .path-15 {
+  position: absolute;
+  width: 7px;
+  height: 56px;
+  top: 94px;
+  left: 165px;
+}
+
+.mobile .path-16 {
+  position: absolute;
+  width: 28px;
+  height: 3px;
+  top: 18px;
+  left: 159px;
+}
+
+.mobile .oval-2 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 17px;
+  left: 152px;
+}
+
+.mobile .overlap-wrapper {
+  position: absolute;
+  width: 56px;
+  height: 56px;
+  top: 33px;
+  left: 143px;
+}
+
+.mobile .overlap-2 {
+  position: relative;
+  width: 55px;
+  height: 55px;
+  top: 1px;
+}
+
+.mobile .path-17 {
+  position: absolute;
+  width: 46px;
+  height: 24px;
+  top: 0;
+  left: 5px;
+}
+
+.mobile .rectangle-2 {
+  position: absolute;
+  width: 7px;
+  height: 26px;
+  top: 22px;
+  left: 5px;
+  background-color: #fa7701;
+}
+
+.mobile .rectangle-3 {
+  position: absolute;
+  width: 7px;
+  height: 26px;
+  top: 22px;
+  left: 18px;
+  background-color: #fa7701;
+}
+
+.mobile .rectangle-4 {
+  position: absolute;
+  width: 7px;
+  height: 27px;
+  top: 22px;
+  left: 32px;
+  background-color: #fa7701;
+}
+
+.mobile .rectangle-5 {
+  position: absolute;
+  width: 7px;
+  height: 27px;
+  top: 22px;
+  left: 44px;
+  background-color: #fa7701;
+}
+
+.mobile .path-18 {
+  position: absolute;
+  width: 55px;
+  height: 7px;
+  top: 48px;
+  left: 0;
+}
+
+.mobile .path-19 {
+  position: absolute;
+  width: 55px;
+  height: 5px;
+  top: 19px;
+  left: 1px;
+}
+
+.mobile .path-20 {
+  position: absolute;
+  width: 100px;
+  height: 179px;
+  top: 11px;
+  left: 119px;
+}
+
+.mobile .div-wrapper {
+  position: absolute;
+  width: 147px;
+  height: 140px;
+  top: 52px;
+  left: 21px;
+}
+
+.mobile .overlap-3 {
+  position: relative;
+  width: 146px;
+  height: 139px;
+  left: 1px;
+}
+
+.mobile .path-21 {
+  position: absolute;
+  width: 8px;
+  height: 6px;
+  top: 38px;
+  left: 69px;
+}
+
+.mobile .path-22 {
+  position: absolute;
+  width: 28px;
+  height: 15px;
+  top: 28px;
+  left: 43px;
+}
+
+.mobile .group-4 {
+  position: absolute;
+  width: 87px;
+  height: 51px;
+  top: 30px;
+  left: 59px;
+}
+
+.mobile .overlap-group-3 {
+  width: 86px;
+  height: 51px;
+  background-image: url(./img/path-58.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.mobile .path-23 {
+  position: absolute;
+  width: 77px;
+  height: 41px;
+  top: 5px;
+  left: 5px;
+}
+
+.mobile .group-5 {
+  position: absolute;
+  width: 14px;
+  height: 25px;
+  top: 13px;
+  left: 36px;
+  opacity: 0.81;
+}
+
+.mobile .shape-3 {
+  position: absolute;
+  width: 13px;
+  height: 23px;
+  top: 1px;
+  left: 0;
+}
+
+.mobile .path-24 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 19px;
+  left: 33px;
+}
+
+.mobile .path-25 {
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 122px;
+  left: 51px;
+}
+
+.mobile .path-26 {
+  position: absolute;
+  width: 32px;
+  height: 78px;
+  top: 51px;
+  left: 28px;
+}
+
+.mobile .path-27 {
+  position: absolute;
+  width: 11px;
+  height: 14px;
+  top: 121px;
+  left: 1px;
+}
+
+.mobile .path-28 {
+  position: absolute;
+  width: 40px;
+  height: 78px;
+  top: 48px;
+  left: 3px;
+}
+
+.mobile .path-29 {
+  position: absolute;
+  width: 32px;
+  height: 45px;
+  top: 19px;
+  left: 17px;
+}
+
+.mobile .path-30 {
+  position: absolute;
+  width: 10px;
+  height: 6px;
+  top: 43px;
+  left: 56px;
+}
+
+.mobile .path-31 {
+  position: absolute;
+  width: 26px;
+  height: 24px;
+  top: 25px;
+  left: 21px;
+}
+
+.mobile .path-32 {
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  top: 31px;
+  left: 27px;
+}
+
+.mobile .group-6 {
+  position: absolute;
+  width: 20px;
+  height: 22px;
+  top: 21px;
+  left: 20px;
+}
+
+.mobile .group-7 {
+  position: absolute;
+  width: 10px;
+  height: 6px;
+  top: 18px;
+  left: 29px;
+}
+
+.mobile .path-33 {
+  position: absolute;
+  width: 14px;
+  height: 6px;
+  top: 133px;
+  left: 53px;
+}
+
+.mobile .path-34 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 135px;
+  left: 64px;
+}
+
+.mobile .path-35 {
+  position: absolute;
+  width: 14px;
+  height: 2px;
+  top: 137px;
+  left: 54px;
+}
+
+.mobile .path-36 {
+  position: absolute;
+  width: 1px;
+  height: 2px;
+  top: 133px;
+  left: 61px;
+}
+
+.mobile .path-37 {
+  position: absolute;
+  width: 1px;
+  height: 2px;
+  top: 134px;
+  left: 62px;
+}
+
+.mobile .path-38 {
+  position: absolute;
+  width: 14px;
+  height: 7px;
+  top: 132px;
+  left: 0;
+}
+
+.mobile .path-39 {
+  position: absolute;
+  width: 3px;
+  height: 4px;
+  top: 135px;
+  left: 11px;
+}
+
+.mobile .path-40 {
+  position: absolute;
+  width: 14px;
+  height: 3px;
+  top: 136px;
+  left: 0;
+}
+
+.mobile .path-41 {
+  position: absolute;
+  width: 1px;
+  height: 2px;
+  top: 133px;
+  left: 8px;
+}
+
+.mobile .path-42 {
+  position: absolute;
+  width: 1px;
+  height: 2px;
+  top: 133px;
+  left: 9px;
+}
+
+.mobile .group-8 {
+  position: absolute;
+  width: 17px;
+  height: 23px;
+  top: 0;
+  left: 26px;
+}
+
+.mobile .group-9 {
+  position: absolute;
+  width: 5px;
+  height: 16px;
+  top: 74px;
+  left: 32px;
+}
+
+.mobile .path-43 {
+  position: absolute;
+  width: 10px;
+  height: 6px;
+  top: 123px;
+  left: 50px;
+}
+
+.mobile .path-44 {
+  position: absolute;
+  width: 11px;
+  height: 7px;
+  top: 119px;
+  left: 3px;
+}
+
+.mobile .path-45 {
+  position: absolute;
+  width: 2px;
+  height: 5px;
+  top: 29px;
+  left: 45px;
+}
+
+.mobile .path-46 {
+  position: absolute;
+  width: 10px;
+  height: 3px;
+  top: 2px;
+  left: 29px;
+}
+
+.mobile .path-47 {
+  position: absolute;
+  width: 2px;
+  height: 1px;
+  top: 3px;
+  left: 39px;
+}
+
+.mobile .path-48 {
+  position: absolute;
+  width: 9px;
+  height: 1px;
+  top: 5px;
+  left: 30px;
+}
+
+.mobile .path-49 {
+  position: absolute;
+  width: 1px;
+  height: 2px;
+  top: 7px;
+  left: 28px;
+}
+
+.mobile .text-wrapper {
+  position: absolute;
+  width: 25px;
+  top: 157px;
+  left: 155px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 13.3px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mobile .path-50 {
+  position: absolute;
+  width: 53px;
+  height: 14px;
+  top: 157px;
+  left: 141px;
+}
+
+.mobile .path-51 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 180px;
+  left: 219px;
+}
+
+.mobile .path-52 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 135px;
+  left: 220px;
+}
+
+.mobile .path-53 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 113px;
+  left: 212px;
+}
+
+.mobile .path-54 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 158px;
+  left: 219px;
+}
+
+.mobile .path-55 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 169px;
+  left: 215px;
+}
+
+.mobile .path-56 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 146px;
+  left: 214px;
+}
+
+.mobile .path-57 {
+  position: absolute;
+  width: 51px;
+  height: 11px;
+  top: 124px;
+  left: 216px;
+}
+
+.mobile .group-10 {
+  position: absolute;
+  width: 58px;
+  height: 57px;
+  top: 136px;
+  left: 252px;
+}
+
+.mobile .overlap-4 {
+  position: relative;
+  height: 57px;
+}
+
+.mobile .group-11 {
+  position: absolute;
+  width: 58px;
+  height: 57px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .overlap-group-4 {
+  width: 57px;
+  height: 57px;
+  left: 1px;
+  background-image: url(./img/path-22.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.mobile .oval-3 {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 7px;
+  left: 7px;
+}
+
+.mobile .group-12 {
+  position: absolute;
+  width: 16px;
+  height: 29px;
+  top: 15px;
+  left: 20px;
+  opacity: 0.81;
+}
+
+.mobile .shape-4 {
+  position: absolute;
+  width: 16px;
+  height: 28px;
+  top: 1px;
+  left: 0;
+}
+
+.mobile .path-58 {
+  position: absolute;
+  width: 51px;
+  height: 46px;
+  top: 0;
+  left: 1px;
+}
+
+.mobile .group-13 {
+  position: absolute;
+  width: 99px;
+  height: 29px;
+  top: 37px;
+  left: 227px;
+}
+
+.mobile .overlap-5 {
+  position: relative;
+  height: 28px;
+  top: 1px;
+  background-image: url(./img/path-19.svg);
+  background-size: 100% 100%;
+}
+
+.mobile .shape-5 {
+  position: absolute;
+  width: 12px;
+  height: 19px;
+  top: 5px;
+  left: 7px;
+}
+
+.mobile .path-59 {
+  position: absolute;
+  width: 67px;
+  height: 3px;
+  top: 13px;
+  left: 23px;
+}
+
+.mobile .path-60 {
+  position: absolute;
+  width: 28px;
+  height: 3px;
+  top: 13px;
+  left: 23px;
+}
+
+.mobile .oval-4 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 12px;
+  left: 48px;
+}
+
+.mobile .path-61 {
+  position: absolute;
+  width: 97px;
+  height: 27px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .group-14 {
+  position: absolute;
+  width: 100px;
+  height: 29px;
+  top: 72px;
+  left: 227px;
+}
+
+.mobile .overlap-6 {
+  position: relative;
+  width: 99px;
+  height: 28px;
+  top: 1px;
+  left: 1px;
+  background-image: url(./img/path-15.svg);
+  background-size: 100% 100%;
+}
+
+.mobile .path-62 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 49px;
+  left: 74px;
+}
+
+.mobile .path-63 {
+  position: absolute;
+  width: 9px;
+  height: 6px;
+  top: 55px;
+  left: 78px;
+}
+
+.mobile .path-64 {
+  position: absolute;
+  width: 16px;
+  height: 14px;
+  top: 49px;
+  left: 74px;
+}
+
+.mobile .path-65 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 46px;
+  left: 22px;
+}
+
+.mobile .path-66 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 41px;
+  left: 17px;
+}
+
+.mobile .path-67 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 34px;
+  left: 10px;
+}
+
+.mobile .path-68 {
+  position: absolute;
+  width: 9px;
+  height: 6px;
+  top: 53px;
+  left: 27px;
+}
+
+.mobile .path-69 {
+  position: absolute;
+  width: 18px;
+  height: 15px;
+  top: 46px;
+  left: 22px;
+}
+
+.mobile .path-70 {
+  position: absolute;
+  width: 309px;
+  height: 2px;
+  top: 191px;
+  left: 14px;
+}
+
+.mobile .path-71 {
+  position: absolute;
+  width: 2px;
+  height: 1px;
+  top: 9px;
+  left: 301px;
+}
+
+.mobile .BANNER-TEXT {
+  position: absolute;
+  width: 376px;
+  height: 555px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .overlap-7 {
+  position: absolute;
+  width: 331px;
+  height: 105px;
+  top: 361px;
+  left: 19px;
+}
+
+.mobile .a-web-banner-or-wrapper {
+  position: absolute;
+  width: 331px;
+  height: 105px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .a-web-banner-or {
+  position: absolute;
+  top: -1px;
+  left: 1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.mobile .rectangle-6 {
+  position: absolute;
+  width: 57px;
+  height: 3px;
+  top: 102px;
+  left: 140px;
+  background-color: #c2d2ff;
+}
+
+.mobile .overlap-8 {
+  position: absolute;
+  width: 189px;
+  height: 46px;
+  top: 509px;
+  left: 93px;
+  background-image: url(./img/path-2.svg);
+  background-size: 100% 100%;
+}
+
+.mobile .text-wrapper-2 {
+  position: absolute;
+  width: 107px;
+  top: 14px;
+  left: 42px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mobile .overlap-9 {
+  position: absolute;
+  width: 374px;
+  height: 340px;
+  top: 1px;
+  left: 0;
+}
+
+.mobile .mobile-wrapper {
+  position: absolute;
+  width: 314px;
+  height: 158px;
+  top: 182px;
+  left: 46px;
+  overflow: hidden;
+}
+
+.mobile .text-wrapper-3 {
+  position: absolute;
+  width: 314px;
+  top: 29px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #4f6bfd;
+  font-size: 39px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mobile .path-72 {
+  position: absolute;
+  width: 374px;
+  height: 200px;
+  top: 0;
+  left: 0;
+}
+
+.mobile .NAVIGATION-AREA {
+  position: absolute;
+  width: 311px;
+  height: 59px;
+  top: 60px;
+  left: 29px;
+}
+
+.mobile .shape-6 {
+  position: absolute;
+  width: 51px;
+  height: 57px;
+  top: 1px;
+  left: 1px;
+}
+
+.mobile .group-15 {
+  position: absolute;
+  width: 33px;
+  height: 24px;
+  top: 18px;
+  left: 278px;
+}

@@ -1,0 +1,1158 @@
+.website {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.website .mobile-banking-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1080px;
+}
+
+.website .mobile-banking {
+  width: 1921px;
+  height: 1081px;
+}
+
+.website .overlap {
+  position: relative;
+  height: 1081px;
+}
+
+.website .BG {
+  position: absolute;
+  width: 1921px;
+  height: 1081px;
+  top: 0;
+  left: 0;
+}
+
+.website .rectangle {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  top: 1px;
+  background-color: #ffffff;
+}
+
+.website .MAIN-OBJECTS {
+  position: absolute;
+  width: 1203px;
+  height: 714px;
+  top: 265px;
+  left: 635px;
+}
+
+.website .group {
+  width: 1205px;
+  height: 714px;
+}
+
+.website .overlap-group {
+  position: relative;
+  width: 1203px;
+  height: 714px;
+}
+
+.website .div {
+  position: absolute;
+  width: 1203px;
+  height: 714px;
+  top: 0;
+  left: 0;
+}
+
+.website .path {
+  position: absolute;
+  width: 670px;
+  height: 258px;
+  top: 0;
+  left: 274px;
+}
+
+.website .img {
+  position: absolute;
+  width: 1126px;
+  height: 525px;
+  top: 187px;
+  left: 66px;
+}
+
+.website .group-2 {
+  position: absolute;
+  width: 201px;
+  height: 202px;
+  top: 369px;
+  left: 958px;
+}
+
+.website .group-3 {
+  position: absolute;
+  width: 146px;
+  height: 156px;
+  top: 550px;
+  left: 0;
+}
+
+.website .path-2 {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 165px;
+  left: 254px;
+}
+
+.website .path-3 {
+  position: absolute;
+  width: 136px;
+  height: 136px;
+  top: 144px;
+  left: 233px;
+}
+
+.website .overlap-group-wrapper {
+  position: absolute;
+  width: 334px;
+  height: 234px;
+  top: 472px;
+  left: 106px;
+}
+
+.website .overlap-group-2 {
+  position: relative;
+  height: 234px;
+}
+
+.website .path-4 {
+  position: absolute;
+  width: 284px;
+  height: 109px;
+  top: 0;
+  left: 12px;
+}
+
+.website .path-5 {
+  position: absolute;
+  width: 312px;
+  height: 200px;
+  top: 33px;
+  left: 0;
+}
+
+.website .shape-wrapper {
+  position: absolute;
+  width: 288px;
+  height: 173px;
+  top: 47px;
+  left: 15px;
+  opacity: 0.39;
+}
+
+.website .shape {
+  position: absolute;
+  width: 287px;
+  height: 172px;
+  top: 1px;
+  left: 1px;
+}
+
+.website .path-6 {
+  position: absolute;
+  width: 312px;
+  height: 198px;
+  top: 36px;
+  left: 0;
+}
+
+.website .path-7 {
+  position: absolute;
+  width: 312px;
+  height: 122px;
+  top: 112px;
+  left: 0;
+}
+
+.website .path-8 {
+  position: absolute;
+  width: 115px;
+  height: 72px;
+  top: 104px;
+  left: 218px;
+}
+
+.website .img-wrapper {
+  position: absolute;
+  width: 106px;
+  height: 61px;
+  top: 110px;
+  left: 228px;
+  opacity: 0.4;
+}
+
+.website .shape-2 {
+  position: absolute;
+  width: 105px;
+  height: 60px;
+  top: 0;
+  left: 1px;
+}
+
+.website .oval {
+  position: absolute;
+  width: 38px;
+  height: 38px;
+  top: 121px;
+  left: 238px;
+}
+
+.website .path-9 {
+  position: absolute;
+  width: 113px;
+  height: 26px;
+  top: 150px;
+  left: 220px;
+}
+
+.website .path-10 {
+  position: absolute;
+  width: 175px;
+  height: 74px;
+  top: 53px;
+  left: 53px;
+}
+
+.website .path-11 {
+  position: absolute;
+  width: 374px;
+  height: 665px;
+  top: 41px;
+  left: 435px;
+}
+
+.website .path-12 {
+  position: absolute;
+  width: 321px;
+  height: 575px;
+  top: 98px;
+  left: 462px;
+}
+
+.website .path-13 {
+  position: absolute;
+  width: 206px;
+  height: 58px;
+  top: 582px;
+  left: 520px;
+}
+
+.website .path-14 {
+  position: absolute;
+  width: 27px;
+  height: 208px;
+  top: 346px;
+  left: 608px;
+}
+
+.website .path-15 {
+  position: absolute;
+  width: 102px;
+  height: 11px;
+  top: 66px;
+  left: 584px;
+}
+
+.website .oval-2 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 61px;
+  left: 560px;
+}
+
+.website .overlap-wrapper {
+  position: absolute;
+  width: 205px;
+  height: 205px;
+  top: 122px;
+  left: 526px;
+}
+
+.website .overlap-2 {
+  position: relative;
+  width: 204px;
+  height: 204px;
+  top: 1px;
+  left: 1px;
+}
+
+.website .path-16 {
+  position: absolute;
+  width: 172px;
+  height: 88px;
+  top: 0;
+  left: 18px;
+}
+
+.website .rectangle-2 {
+  position: absolute;
+  width: 26px;
+  height: 95px;
+  top: 83px;
+  left: 19px;
+  background-color: #fa7701;
+}
+
+.website .rectangle-3 {
+  position: absolute;
+  width: 26px;
+  height: 95px;
+  top: 83px;
+  left: 68px;
+  background-color: #fa7701;
+}
+
+.website .rectangle-4 {
+  position: absolute;
+  width: 26px;
+  height: 101px;
+  top: 81px;
+  left: 119px;
+  background-color: #fa7701;
+}
+
+.website .rectangle-5 {
+  position: absolute;
+  width: 26px;
+  height: 101px;
+  top: 81px;
+  left: 161px;
+  background-color: #fa7701;
+}
+
+.website .path-17 {
+  position: absolute;
+  width: 204px;
+  height: 26px;
+  top: 178px;
+  left: 0;
+}
+
+.website .path-18 {
+  position: absolute;
+  width: 202px;
+  height: 20px;
+  top: 71px;
+  left: 2px;
+}
+
+.website .path-19 {
+  position: absolute;
+  width: 368px;
+  height: 661px;
+  top: 41px;
+  left: 435px;
+}
+
+.website .div-wrapper {
+  position: absolute;
+  width: 540px;
+  height: 513px;
+  top: 194px;
+  left: 77px;
+}
+
+.website .overlap-3 {
+  position: relative;
+  height: 512px;
+}
+
+.website .path-20 {
+  position: absolute;
+  width: 30px;
+  height: 21px;
+  top: 136px;
+  left: 256px;
+}
+
+.website .path-21 {
+  position: absolute;
+  width: 103px;
+  height: 56px;
+  top: 101px;
+  left: 158px;
+}
+
+.website .group-4 {
+  position: absolute;
+  width: 320px;
+  height: 188px;
+  top: 108px;
+  left: 220px;
+}
+
+.website .overlap-group-3 {
+  width: 319px;
+  height: 187px;
+  top: 1px;
+  left: 1px;
+  background-image: url(./img/path-58.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.website .path-22 {
+  position: absolute;
+  width: 284px;
+  height: 152px;
+  top: 18px;
+  left: 18px;
+}
+
+.website .group-5 {
+  position: absolute;
+  width: 50px;
+  height: 88px;
+  top: 49px;
+  left: 131px;
+  opacity: 0.81;
+}
+
+.website .shape-3 {
+  position: absolute;
+  width: 49px;
+  height: 87px;
+  top: 0;
+  left: 1px;
+}
+
+.website .path-23 {
+  position: absolute;
+  width: 65px;
+  height: 66px;
+  top: 66px;
+  left: 122px;
+}
+
+.website .path-24 {
+  position: absolute;
+  width: 36px;
+  height: 51px;
+  top: 448px;
+  left: 188px;
+}
+
+.website .path-25 {
+  position: absolute;
+  width: 120px;
+  height: 287px;
+  top: 185px;
+  left: 104px;
+}
+
+.website .path-26 {
+  position: absolute;
+  width: 39px;
+  height: 50px;
+  top: 442px;
+  left: 5px;
+}
+
+.website .path-27 {
+  position: absolute;
+  width: 147px;
+  height: 287px;
+  top: 173px;
+  left: 10px;
+}
+
+.website .path-28 {
+  position: absolute;
+  width: 120px;
+  height: 166px;
+  top: 66px;
+  left: 62px;
+}
+
+.website .path-29 {
+  position: absolute;
+  width: 37px;
+  height: 23px;
+  top: 157px;
+  left: 206px;
+}
+
+.website .path-30 {
+  position: absolute;
+  width: 96px;
+  height: 88px;
+  top: 88px;
+  left: 78px;
+}
+
+.website .path-31 {
+  position: absolute;
+  width: 110px;
+  height: 73px;
+  top: 109px;
+  left: 101px;
+}
+
+.website .group-6 {
+  position: absolute;
+  width: 71px;
+  height: 78px;
+  top: 75px;
+  left: 77px;
+}
+
+.website .group-7 {
+  position: absolute;
+  width: 35px;
+  height: 19px;
+  top: 65px;
+  left: 108px;
+}
+
+.website .path-32 {
+  position: absolute;
+  width: 54px;
+  height: 22px;
+  top: 490px;
+  left: 197px;
+}
+
+.website .path-33 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 494px;
+  left: 236px;
+}
+
+.website .path-34 {
+  position: absolute;
+  width: 53px;
+  height: 9px;
+  top: 503px;
+  left: 198px;
+}
+
+.website .path-35 {
+  position: absolute;
+  width: 3px;
+  height: 8px;
+  top: 490px;
+  left: 224px;
+}
+
+.website .path-36 {
+  position: absolute;
+  width: 3px;
+  height: 8px;
+  top: 490px;
+  left: 229px;
+}
+
+.website .path-37 {
+  position: absolute;
+  width: 52px;
+  height: 27px;
+  top: 484px;
+  left: 0;
+}
+
+.website .path-38 {
+  position: absolute;
+  width: 12px;
+  height: 17px;
+  top: 495px;
+  left: 40px;
+}
+
+.website .path-39 {
+  position: absolute;
+  width: 52px;
+  height: 12px;
+  top: 499px;
+  left: 0;
+}
+
+.website .path-40 {
+  position: absolute;
+  width: 5px;
+  height: 7px;
+  top: 488px;
+  left: 28px;
+}
+
+.website .path-41 {
+  position: absolute;
+  width: 4px;
+  height: 7px;
+  top: 490px;
+  left: 33px;
+}
+
+.website .group-8 {
+  position: absolute;
+  width: 60px;
+  height: 79px;
+  top: 0;
+  left: 98px;
+}
+
+.website .group-9 {
+  position: absolute;
+  width: 15px;
+  height: 55px;
+  top: 272px;
+  left: 121px;
+}
+
+.website .path-42 {
+  position: absolute;
+  width: 38px;
+  height: 21px;
+  top: 452px;
+  left: 186px;
+}
+
+.website .path-43 {
+  position: absolute;
+  width: 39px;
+  height: 25px;
+  top: 435px;
+  left: 10px;
+}
+
+.website .path-44 {
+  position: absolute;
+  width: 9px;
+  height: 20px;
+  top: 103px;
+  left: 168px;
+}
+
+.website .path-45 {
+  position: absolute;
+  width: 36px;
+  height: 12px;
+  top: 4px;
+  left: 106px;
+}
+
+.website .path-46 {
+  position: absolute;
+  width: 8px;
+  height: 2px;
+  top: 6px;
+  left: 144px;
+}
+
+.website .path-47 {
+  position: absolute;
+  width: 31px;
+  height: 3px;
+  top: 14px;
+  left: 110px;
+}
+
+.website .path-48 {
+  position: absolute;
+  width: 1px;
+  height: 6px;
+  top: 23px;
+  left: 104px;
+}
+
+.website .text-wrapper {
+  position: absolute;
+  width: 92px;
+  top: 580px;
+  left: 571px;
+  font-family: "Helvetica-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 49.1px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .path-49 {
+  position: absolute;
+  width: 198px;
+  height: 53px;
+  top: 582px;
+  left: 520px;
+}
+
+.website .path-50 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 665px;
+  left: 807px;
+}
+
+.website .path-51 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 501px;
+  left: 810px;
+}
+
+.website .path-52 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 418px;
+  left: 782px;
+}
+
+.website .path-53 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 583px;
+  left: 807px;
+}
+
+.website .path-54 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 624px;
+  left: 792px;
+}
+
+.website .path-55 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 542px;
+  left: 788px;
+}
+
+.website .path-56 {
+  position: absolute;
+  width: 187px;
+  height: 41px;
+  top: 459px;
+  left: 795px;
+}
+
+.website .group-10 {
+  position: absolute;
+  width: 210px;
+  height: 210px;
+  top: 502px;
+  left: 931px;
+}
+
+.website .overlap-4 {
+  position: relative;
+  height: 210px;
+}
+
+.website .group-11 {
+  position: absolute;
+  width: 210px;
+  height: 210px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/path-22.svg);
+  background-size: 100% 100%;
+}
+
+.website .group-wrapper {
+  width: 159px;
+  height: 159px;
+  top: 26px;
+  left: 26px;
+  background-image: url(./img/oval-5.svg);
+  position: relative;
+  background-size: 100% 100%;
+}
+
+.website .group-12 {
+  position: relative;
+  width: 60px;
+  height: 105px;
+  top: 31px;
+  left: 49px;
+  opacity: 0.81;
+}
+
+.website .shape-4 {
+  position: absolute;
+  width: 59px;
+  height: 104px;
+  top: 0;
+  left: 1px;
+}
+
+.website .path-57 {
+  position: absolute;
+  width: 190px;
+  height: 170px;
+  top: 0;
+  left: 0;
+}
+
+.website .group-13 {
+  position: absolute;
+  width: 366px;
+  height: 103px;
+  top: 138px;
+  left: 837px;
+}
+
+.website .overlap-5 {
+  position: relative;
+  width: 364px;
+  height: 102px;
+  left: 1px;
+  background-image: url(./img/path-19.svg);
+  background-size: 100% 100%;
+}
+
+.website .shape-5 {
+  position: absolute;
+  width: 45px;
+  height: 69px;
+  top: 19px;
+  left: 25px;
+}
+
+.website .path-58 {
+  position: absolute;
+  width: 250px;
+  height: 11px;
+  top: 48px;
+  left: 85px;
+}
+
+.website .path-59 {
+  position: absolute;
+  width: 104px;
+  height: 11px;
+  top: 48px;
+  left: 85px;
+}
+
+.website .oval-3 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 45px;
+  left: 176px;
+}
+
+.website .path-60 {
+  position: absolute;
+  width: 357px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.website .group-14 {
+  position: absolute;
+  width: 365px;
+  height: 103px;
+  top: 267px;
+  left: 838px;
+}
+
+.website .overlap-6 {
+  position: relative;
+  width: 364px;
+  height: 102px;
+  background-image: url(./img/path-15.svg);
+  background-size: 100% 100%;
+}
+
+.website .path-61 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 180px;
+  left: 269px;
+}
+
+.website .path-62 {
+  position: absolute;
+  width: 32px;
+  height: 21px;
+  top: 203px;
+  left: 287px;
+}
+
+.website .path-63 {
+  position: absolute;
+  width: 61px;
+  height: 52px;
+  top: 180px;
+  left: 269px;
+}
+
+.website .path-64 {
+  position: absolute;
+  width: 69px;
+  height: 69px;
+  top: 170px;
+  left: 78px;
+}
+
+.website .path-65 {
+  position: absolute;
+  width: 104px;
+  height: 104px;
+  top: 152px;
+  left: 60px;
+}
+
+.website .path-66 {
+  position: absolute;
+  width: 156px;
+  height: 156px;
+  top: 127px;
+  left: 34px;
+}
+
+.website .path-67 {
+  position: absolute;
+  width: 34px;
+  height: 22px;
+  top: 195px;
+  left: 96px;
+}
+
+.website .path-68 {
+  position: absolute;
+  width: 65px;
+  height: 56px;
+  top: 170px;
+  left: 78px;
+}
+
+.website .path-69 {
+  position: absolute;
+  width: 1144px;
+  height: 9px;
+  top: 705px;
+  left: 49px;
+}
+
+.website .path-70 {
+  position: absolute;
+  width: 7px;
+  height: 1px;
+  top: 34px;
+  left: 1111px;
+}
+
+.website .BANNER-TEXT {
+  position: absolute;
+  width: 1577px;
+  height: 918px;
+  top: 2px;
+  left: 1px;
+}
+
+.website .overlap-7 {
+  position: absolute;
+  width: 1577px;
+  height: 720px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/path-2.svg);
+  background-size: 100% 100%;
+}
+
+.website .mobile-wrapper {
+  position: absolute;
+  width: 461px;
+  height: 196px;
+  top: 224px;
+  left: 239px;
+  overflow: hidden;
+}
+
+.website .mobile {
+  position: absolute;
+  width: 503px;
+  top: 10px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #4f6bfd;
+  font-size: 80px;
+  letter-spacing: 0;
+  line-height: 87px;
+}
+
+.website .rectangle-6 {
+  position: absolute;
+  width: 84px;
+  height: 5px;
+  top: 682px;
+  left: 242px;
+  background-color: #c2d2ff;
+}
+
+.website .a-web-banner-or-wrapper {
+  position: absolute;
+  width: 404px;
+  height: 175px;
+  top: 462px;
+  left: 241px;
+}
+
+.website .a-web-banner-or {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 300;
+  color: #333333;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: 35px;
+}
+
+.website .oval-4 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 908px;
+  left: 383px;
+}
+
+.website .oval-5 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 908px;
+  left: 356px;
+}
+
+.website .oval-6 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 908px;
+  left: 328px;
+}
+
+.website .NAVIGATION-AREA {
+  position: absolute;
+  width: 1585px;
+  height: 749px;
+  top: 62px;
+  left: 236px;
+}
+
+.website .navbar {
+  position: absolute;
+  width: 1351px;
+  height: 28px;
+  top: 36px;
+  left: 10px;
+}
+
+.website .text-wrapper-2 {
+  left: 0;
+  position: absolute;
+  top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .text-wrapper-3 {
+  left: 619px;
+  position: absolute;
+  top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .text-wrapper-4 {
+  left: 850px;
+  position: absolute;
+  top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .text-wrapper-5 {
+  left: 1082px;
+  position: absolute;
+  top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .text-wrapper-6 {
+  position: absolute;
+  top: -1px;
+  left: 1237px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website .shape-6 {
+  position: absolute;
+  width: 80px;
+  height: 89px;
+  top: 0;
+  left: 1504px;
+}
+
+.website .overlap-8 {
+  position: absolute;
+  width: 250px;
+  height: 61px;
+  top: 687px;
+  left: 0;
+  background-image: url(./img/path-1.svg);
+  background-size: 100% 100%;
+}
+
+.website .text-wrapper-7 {
+  position: absolute;
+  width: 141px;
+  top: 19px;
+  left: 55px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}

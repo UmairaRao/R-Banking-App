@@ -1,0 +1,820 @@
+.element-main-screen {
+  background-color: #f0f3ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-main-screen .overlap-wrapper {
+  background-color: #f0f3ff;
+  overflow: hidden;
+  width: 376px;
+  height: 812px;
+}
+
+.element-main-screen .overlap {
+  position: relative;
+  width: 450px;
+  height: 812px;
+}
+
+.element-main-screen .background {
+  position: absolute;
+  width: 376px;
+  height: 812px;
+  top: 0;
+  left: 0;
+  background-color: #f0f3ff;
+  border-radius: 20px;
+}
+
+.element-main-screen .shape {
+  height: 654px;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+.element-main-screen .friends-card {
+  height: 102px;
+  top: 676px;
+  left: 22px;
+  position: absolute;
+  width: 428px;
+}
+
+.element-main-screen .friends-cards {
+  height: 63px;
+  top: 39px;
+  left: 0;
+  position: absolute;
+  width: 428px;
+}
+
+.element-main-screen .card {
+  position: absolute;
+  width: 137px;
+  height: 63px;
+  top: 0;
+  left: 148px;
+}
+
+.element-main-screen .overlap-group {
+  position: relative;
+  width: 133px;
+  height: 63px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 3px 4px -3px #0000002b;
+}
+
+.element-main-screen .text-wrapper {
+  position: absolute;
+  top: 18px;
+  left: 60px;
+  font-family: "Work Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #454393;
+  font-size: 12px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-main-screen .username {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 14px;
+  left: 12px;
+  background-color: #c1e6f5;
+  border-radius: 9.25px;
+}
+
+.element-main-screen .div {
+  position: absolute;
+  top: 33px;
+  left: 60px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #aaaacd;
+  font-size: 9px;
+  letter-spacing: 0.18px;
+  line-height: normal;
+}
+
+.element-main-screen .overlap-group-wrapper {
+  position: absolute;
+  width: 137px;
+  height: 63px;
+  top: 0;
+  left: 295px;
+}
+
+.element-main-screen .username-2 {
+  background-color: #c9eac1;
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 14px;
+  left: 12px;
+  border-radius: 9.25px;
+}
+
+.element-main-screen .div-wrapper {
+  position: absolute;
+  width: 137px;
+  height: 63px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .username-3 {
+  background-color: #e1d3ff;
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 14px;
+  left: 12px;
+  border-radius: 9.25px;
+}
+
+.element-main-screen .sub {
+  position: absolute;
+  width: 332px;
+  height: 16px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .icon {
+  position: absolute;
+  width: 22px;
+  height: 4px;
+  top: 6px;
+  left: 308px;
+}
+
+.element-main-screen .shape-2 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 9px;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-main-screen .shape-3 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-main-screen .shape-4 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 18px;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-main-screen .text-wrapper-2 {
+  position: absolute;
+  width: 79px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #4c4c7b;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .expenses {
+  position: absolute;
+  width: 376px;
+  height: 231px;
+  top: 424px;
+  left: 0;
+}
+
+.element-main-screen .overlap-2 {
+  position: absolute;
+  width: 376px;
+  height: 78px;
+  top: 153px;
+  left: 0;
+  border-radius: 20px;
+}
+
+.element-main-screen .apple {
+  position: absolute;
+  width: 338px;
+  height: 36px;
+  top: 9px;
+  left: 21px;
+}
+
+.element-main-screen .amount {
+  position: absolute;
+  width: 66px;
+  height: 30px;
+  top: 0;
+  left: 274px;
+}
+
+.element-main-screen .overlap-group-2 {
+  position: relative;
+  width: 64px;
+  height: 30px;
+  background-color: #f4f6ff;
+  border-radius: 25px;
+}
+
+.element-main-screen .text-wrapper-3 {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #595990;
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-main-screen .div-2 {
+  width: 194px;
+  position: absolute;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .text-wrapper-4 {
+  position: absolute;
+  width: 136px;
+  top: 3px;
+  left: 54px;
+  font-family: "Work Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #444392;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-5 {
+  position: absolute;
+  top: 22px;
+  left: 54px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #a6a6cb;
+  font-size: 11px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-main-screen .apple-logo {
+  width: 36px;
+  background-color: #a9b4cc;
+  border-radius: 9px;
+  position: absolute;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .fading-effect {
+  position: absolute;
+  width: 376px;
+  height: 78px;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.43) 0%,
+    rgb(255, 255, 255) 100%
+  );
+}
+
+.element-main-screen .netflix {
+  position: absolute;
+  width: 338px;
+  height: 36px;
+  top: 102px;
+  left: 21px;
+}
+
+.element-main-screen .amount-2 {
+  width: 77px;
+  top: 3px;
+  left: 263px;
+  position: absolute;
+  height: 30px;
+}
+
+.element-main-screen .overlap-group-3 {
+  position: relative;
+  width: 75px;
+  height: 30px;
+  background-color: #f4f6ff;
+  border-radius: 25px;
+}
+
+.element-main-screen .text-wrapper-6 {
+  top: 8px;
+  left: 22px;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #595990;
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0.26px;
+  white-space: nowrap;
+  position: absolute;
+  line-height: normal;
+}
+
+.element-main-screen .netflix-2 {
+  position: absolute;
+  width: 151px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .text-wrapper-7 {
+  position: absolute;
+  width: 93px;
+  top: 4px;
+  left: 54px;
+  font-family: "Work Sans-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #444392;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-8 {
+  position: absolute;
+  top: 23px;
+  left: 55px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #a6a6cb;
+  font-size: 11px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-main-screen .shape-5 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  background-color: #f6d4d4;
+  border-radius: 9px;
+}
+
+.element-main-screen .paypal {
+  position: absolute;
+  width: 338px;
+  height: 36px;
+  top: 41px;
+  left: 21px;
+}
+
+.element-main-screen .amount-3 {
+  width: 85px;
+  top: 1px;
+  left: 255px;
+  position: absolute;
+  height: 30px;
+}
+
+.element-main-screen .overlap-group-4 {
+  position: relative;
+  width: 83px;
+  height: 30px;
+  background-color: #f4f6ff;
+  border-radius: 25px;
+}
+
+.element-main-screen .text-wrapper-9 {
+  top: 7px;
+  left: 18px;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #595990;
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0.26px;
+  white-space: nowrap;
+  position: absolute;
+  line-height: normal;
+}
+
+.element-main-screen .group {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  background-color: #c7d9f5;
+  border-radius: 9px;
+}
+
+.element-main-screen .title {
+  position: absolute;
+  width: 334px;
+  height: 16px;
+  top: 0;
+  left: 21px;
+}
+
+.element-main-screen .text-wrapper-10 {
+  position: absolute;
+  top: 1px;
+  left: 281px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #4c4c7b;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 0.24px;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #4c4c7b;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .tab {
+  position: absolute;
+  width: 343px;
+  height: 44px;
+  top: 357px;
+  left: 17px;
+}
+
+.element-main-screen .overlap-3 {
+  position: relative;
+  width: 339px;
+  height: 44px;
+  background-color: #f4f6ff;
+  border-radius: 6px;
+}
+
+.element-main-screen .overlap-group-5 {
+  position: absolute;
+  width: 173px;
+  height: 44px;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  background: linear-gradient(
+    180deg,
+    rgb(89.71, 89.71, 144.5) 0%,
+    rgb(147.13, 147.13, 202.94) 100%
+  );
+}
+
+.element-main-screen .text-wrapper-12 {
+  position: absolute;
+  width: 70px;
+  top: 14px;
+  left: 50px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-13 {
+  width: 54px;
+  top: 14px;
+  left: 228px;
+  color: #595990;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  position: absolute;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.element-main-screen .credit-cards {
+  position: absolute;
+  width: 333px;
+  height: 189px;
+  top: 139px;
+  left: 22px;
+}
+
+.element-main-screen .card-2 {
+  position: absolute;
+  width: 103px;
+  height: 132px;
+  top: 46px;
+  left: 234px;
+}
+
+.element-main-screen .overlap-group-6 {
+  position: relative;
+  width: 99px;
+  height: 132px;
+  background-image: url(./img/shape.svg);
+  background-size: 100% 100%;
+}
+
+.element-main-screen .text-wrapper-14 {
+  position: absolute;
+  width: 28px;
+  top: 89px;
+  left: 17px;
+  font-family: "Work Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 9.3px;
+  letter-spacing: 0.19px;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-15 {
+  top: 106px;
+  left: 17px;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 11px;
+  letter-spacing: 0.22px;
+  white-space: nowrap;
+  position: absolute;
+  line-height: normal;
+}
+
+.element-main-screen .card-3 {
+  position: absolute;
+  width: 103px;
+  height: 132px;
+  top: 46px;
+  left: 0;
+}
+
+.element-main-screen .overlap-4 {
+  position: relative;
+  width: 99px;
+  height: 132px;
+  border-radius: 9px;
+  background: linear-gradient(
+    180deg,
+    rgb(238, 129.85, 114.04) 0%,
+    rgb(187.5, 128.58, 161.28) 23.96%,
+    rgb(91.65, 91.65, 173.19) 87.31%
+  );
+}
+
+.element-main-screen .card-4 {
+  position: absolute;
+  width: 119px;
+  height: 153px;
+  top: 35px;
+  left: 109px;
+}
+
+.element-main-screen .overlap-5 {
+  position: relative;
+  width: 115px;
+  height: 153px;
+  border-radius: 10.45px;
+  box-shadow: -1px 13.47px 15.54px -4.14px #5b1d2552;
+  background: linear-gradient(
+    180deg,
+    rgb(48, 48, 94) 0%,
+    rgba(94.56, 20.49, 20.49, 0.76) 100%
+  );
+}
+
+.element-main-screen .text-wrapper-16 {
+  width: 77px;
+  top: 123px;
+  left: 19px;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12.8px;
+  letter-spacing: 0.26px;
+  white-space: nowrap;
+  position: absolute;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-17 {
+  width: 33px;
+  top: 104px;
+  left: 19px;
+  font-family: "Work Sans-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 10.8px;
+  letter-spacing: 0.22px;
+  position: absolute;
+  line-height: normal;
+}
+
+.element-main-screen .icon-2 {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 0;
+  left: 310px;
+}
+
+.element-main-screen .shape-6 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 0;
+  left: 0;
+  border-radius: 1.67px;
+  border: 1.61px solid;
+  border-color: #595990;
+}
+
+.element-main-screen .shape-7 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 8px;
+  left: 0;
+  border-radius: 1.67px;
+  border: 1.61px solid;
+  border-color: #595990;
+}
+
+.element-main-screen .shape-8 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 0;
+  left: 8px;
+  border-radius: 1.67px;
+  border: 1.61px solid;
+  border-color: #595990;
+}
+
+.element-main-screen .shape-9 {
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  top: 8px;
+  left: 8px;
+  border-radius: 1.67px;
+  border: 1.61px solid;
+  border-color: #595990;
+}
+
+.element-main-screen .title-2 {
+  position: absolute;
+  width: 81px;
+  height: 16px;
+  top: 1px;
+  left: 0;
+}
+
+.element-main-screen .search-icon {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 49px;
+  left: 312px;
+  border-radius: 15px;
+  background: linear-gradient(
+    180deg,
+    rgb(238, 240, 249) 0%,
+    rgba(238, 240, 249, 0.72) 100%
+  );
+}
+
+.element-main-screen .overlap-6 {
+  position: relative;
+  width: 19px;
+  height: 19px;
+  top: 11px;
+  left: 12px;
+}
+
+.element-main-screen .vector {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .img {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 13px;
+  left: 13px;
+}
+
+.element-main-screen .user {
+  position: absolute;
+  width: 221px;
+  height: 51px;
+  top: 48px;
+  left: 28px;
+}
+
+.element-main-screen .title-3 {
+  position: absolute;
+  width: 161px;
+  height: 49px;
+  top: 2px;
+  left: 64px;
+}
+
+.element-main-screen .overlap-group-7 {
+  position: absolute;
+  width: 130px;
+  height: 49px;
+  top: 0;
+  left: 0;
+}
+
+.element-main-screen .text-wrapper-18 {
+  height: 34px;
+  top: 15px;
+  left: 0;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  color: #595990;
+  font-size: 28px;
+  letter-spacing: 0;
+  position: absolute;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.element-main-screen .text-wrapper-19 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #4c4c7b;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-main-screen .icon-3 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 25px;
+  left: 137px;
+  object-fit: cover;
+}
+
+.element-main-screen .avatar {
+  position: absolute;
+  width: 49px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  border-radius: 211.21px;
+  background: linear-gradient(
+    180deg,
+    rgb(135.7, 167.7, 215.69) 0%,
+    rgb(215.66, 204, 255) 100%
+  );
+}

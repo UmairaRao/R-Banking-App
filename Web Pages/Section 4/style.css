@@ -1,0 +1,554 @@
+.element-statistic {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-statistic .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 375px;
+  height: 812px;
+  position: relative;
+}
+
+.element-statistic .saved-by-week {
+  position: absolute;
+  width: 376px;
+  height: 160px;
+  top: 651px;
+  left: 0;
+}
+
+.element-statistic .overlap {
+  position: absolute;
+  width: 376px;
+  height: 80px;
+  top: 80px;
+  left: 0;
+  border-radius: 20px;
+}
+
+.element-statistic .bank {
+  height: 31px;
+  top: 11px;
+  left: 21px;
+  position: absolute;
+  width: 344px;
+}
+
+.element-statistic .amount {
+  position: absolute;
+  width: 85px;
+  height: 30px;
+  top: 0;
+  left: 257px;
+}
+
+.element-statistic .overlap-group {
+  position: relative;
+  width: 83px;
+  height: 30px;
+  background-color: #f4f6ff;
+  border-radius: 25px;
+}
+
+.element-statistic .text-wrapper {
+  top: 8px;
+  left: 18px;
+  position: absolute;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #595990;
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-2 {
+  position: absolute;
+  top: 18px;
+  left: 51px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #a6a6cb;
+  font-size: 11px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-3 {
+  position: absolute;
+  width: 93px;
+  top: 0;
+  left: 50px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  color: #444392;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-statistic .icon {
+  position: absolute;
+  width: 37px;
+  height: 28px;
+  top: 3px;
+  left: 0;
+}
+
+.element-statistic .faded {
+  position: absolute;
+  width: 376px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.43) 0%, rgb(255, 255, 255) 100%);
+}
+
+.element-statistic .bank-2 {
+  height: 33px;
+  top: 37px;
+  left: 19px;
+  position: absolute;
+  width: 344px;
+}
+
+.element-statistic .text-wrapper-4 {
+  top: 7px;
+  left: 17px;
+  position: absolute;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #595990;
+  font-size: 13px;
+  text-align: right;
+  letter-spacing: 0.26px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-5 {
+  position: absolute;
+  top: 20px;
+  left: 50px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #a6a6cb;
+  font-size: 11px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-6 {
+  position: absolute;
+  width: 136px;
+  top: 2px;
+  left: 50px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  color: #444392;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-statistic .title {
+  position: absolute;
+  width: 334px;
+  height: 16px;
+  top: 0;
+  left: 20px;
+}
+
+.element-statistic .icon-2 {
+  position: absolute;
+  width: 22px;
+  height: 4px;
+  top: 2px;
+  left: 310px;
+}
+
+.element-statistic .shape {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 9px;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-statistic .shape-2 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 0;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-statistic .shape-3 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 0;
+  left: 18px;
+  background-color: #b6bee2;
+  border-radius: 2px;
+}
+
+.element-statistic .text-wrapper-7 {
+  position: absolute;
+  width: 118px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #4c4c7b;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-statistic .monthly-report {
+  position: absolute;
+  width: 353px;
+  height: 609px;
+  top: 11px;
+  left: 11px;
+  background-image: url(./img/background.png);
+  background-size: 100% 100%;
+}
+
+.element-statistic .year-s-goal {
+  position: absolute;
+  width: 329px;
+  height: 152px;
+  top: 443px;
+  left: 12px;
+  border-radius: 10px;
+  border: 1.8px solid;
+  border-color: #3d3d70;
+}
+
+.element-statistic .copy {
+  position: absolute;
+  width: 187px;
+  height: 66px;
+  top: 39px;
+  left: 124px;
+}
+
+.element-statistic .text-wrapper-8 {
+  position: absolute;
+  width: 118px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #5c5c92;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
+
+.element-statistic .p {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #5c5c92;
+  font-size: 10px;
+  letter-spacing: 0.2px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-9 {
+  position: absolute;
+  width: 181px;
+  top: 19px;
+  left: 0;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .graph {
+  position: absolute;
+  width: 91px;
+  height: 89px;
+  top: 29px;
+  left: 17px;
+}
+
+.element-statistic .overlap-group-2 {
+  position: relative;
+  width: 88px;
+  height: 88px;
+}
+
+.element-statistic .text-wrapper-10 {
+  position: absolute;
+  width: 36px;
+  top: 33px;
+  left: 27px;
+  transform: rotate(-0.2deg);
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  color: #f6f2ff;
+  font-size: 17.5px;
+  letter-spacing: 0.35px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .ellipse {
+  position: absolute;
+  width: 88px;
+  height: 88px;
+  top: 0;
+  left: 0;
+}
+
+.element-statistic .img {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  top: 12px;
+  left: 12px;
+}
+
+.element-statistic .content {
+  position: absolute;
+  width: 331px;
+  height: 379px;
+  top: 39px;
+  left: 10px;
+}
+
+.element-statistic .overlap-2 {
+  position: absolute;
+  width: 341px;
+  height: 187px;
+  top: 192px;
+  left: 0;
+}
+
+.element-statistic .navbar {
+  position: absolute;
+  width: 341px;
+  height: 16px;
+  top: 171px;
+  left: 0;
+}
+
+.element-statistic .text-wrapper-11 {
+  position: absolute;
+  width: 43px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #5c5c92;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.element-statistic .text-wrapper-12 {
+  left: 58px;
+  color: #5c5c92;
+  position: absolute;
+  width: 57px;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.element-statistic .text-wrapper-13 {
+  left: 130px;
+  color: #b7b7ff;
+  position: absolute;
+  width: 57px;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.element-statistic .text-wrapper-14 {
+  left: 202px;
+  color: #5c5c92;
+  position: absolute;
+  width: 57px;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.element-statistic .text-wrapper-15 {
+  left: 274px;
+  color: #5c5c92;
+  position: absolute;
+  width: 57px;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.element-statistic .overlap-group-wrapper {
+  width: 306px;
+  height: 173px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+}
+
+.element-statistic .overlap-group-3 {
+  position: relative;
+  width: 309px;
+  height: 175px;
+  top: -2px;
+  left: -2px;
+}
+
+.element-statistic .shape-4 {
+  position: absolute;
+  width: 306px;
+  height: 162px;
+  top: 2px;
+  left: 2px;
+}
+
+.element-statistic .graph-2 {
+  width: 309px;
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.element-statistic .vertical {
+  position: absolute;
+  width: 1px;
+  height: 115px;
+  top: 60px;
+  left: 151px;
+}
+
+.element-statistic .pin {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 28px;
+  left: 144px;
+  border-radius: 7.5px;
+  box-shadow: 0px 0px 5px #0000005c;
+  background: linear-gradient(180deg, rgb(54.98, 79.75, 143.44) 3.73%, rgb(92.92, 129.97, 225.25) 99.02%);
+}
+
+.element-statistic .shape-5 {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  top: 3px;
+  left: 3px;
+  border-radius: 4.17px;
+  border: 0px none;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 3.73%, rgba(255, 255, 255, 0.13) 99.02%);
+}
+
+.element-statistic .navbar-2 {
+  position: absolute;
+  width: 267px;
+  height: 22px;
+  top: 115px;
+  left: 37px;
+}
+
+.element-statistic .shape-6 {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  top: 18px;
+  left: 156px;
+  background-color: #ffffff;
+  border-radius: 2px;
+}
+
+.element-statistic .total {
+  position: absolute;
+  width: 209px;
+  height: 86px;
+  top: 0;
+  left: 61px;
+}
+
+.element-statistic .divider {
+  position: absolute;
+  width: 151px;
+  height: 1px;
+  top: 86px;
+  left: 26px;
+  object-fit: cover;
+}
+
+.element-statistic .text-wrapper-16 {
+  position: absolute;
+  width: 205px;
+  top: 23px;
+  left: 0;
+  font-family: "Sansation-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-statistic .text-wrapper-17 {
+  position: absolute;
+  width: 123px;
+  top: 0;
+  left: 42px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 0.26px;
+  line-height: normal;
+}
